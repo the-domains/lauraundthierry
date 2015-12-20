@@ -1,6 +1,6 @@
 name: lauraundthierry
 favicon: null
-layout_spectrum: 0.07401675009168684
+layout_spectrum: 0.97568
 typography_spectrum: 0.4380769713316113
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.7746245341841131
+  brandStrength: 0
   lightness: 0.6150106103159487
   saturation: 0.2113538384437561
   rhythmicContrast: 0.1606617826037109
